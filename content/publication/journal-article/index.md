@@ -1,11 +1,11 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper describes the participation ofECSTRA-INSERM team at CLEF eHealth 2016, task 2.C. The task involves extracting ICD10 codes from death certificates, mainly described with short plain texts. We cast the task as a machine learning problem involving the prediction of the ICD10 codes (categorical variable) from the raw text transformed into a bag-of-words matrix. We rely on probabilistic topic models that we evaluate against classical classifiers such as SVM and Naive Bayes. We demonstrate the effectiveness of topic models for this task in terms of prediction accuracy and result interpretation.
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
+- Mohamed Dermouche
 - admin
-- Robert Ford
 date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
@@ -20,13 +20,13 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: iLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: ICD10 Code Extraction from Death Certificates
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://ceur-ws.org/Vol-1609/16090061.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

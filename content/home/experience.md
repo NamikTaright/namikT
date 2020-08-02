@@ -18,27 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Médecin responsable de l'Information médicale"
+  company = "AP-HP"
+  company_url = "www.aphp.fr"
+  location = "Paris (France)"
+  date_start = "2011-07-17"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analyse et prévision de l'activité hospitalière
+  * MOA des outils de prodution de l'information médicale 
+  * Deploiement de méthodes d'amélioration de la production des informations médico-économiques
+  * Confidentialité des données (en lien avec le DPO et la direction des Affaires juridiques)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Médecin d'Information médicale"
+  company = "AP-HP"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Paris (France)"
+  date_start = "2006-07-01"
+  date_end = "2010-07-16"
+  description = """Production de l'Information médicale au sein de l'hôpital Saint-Antoine."""
 
 +++
