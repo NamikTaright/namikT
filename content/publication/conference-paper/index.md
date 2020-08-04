@@ -1,39 +1,40 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recruitment of large samples of patients is crucial for evidence level and efficacy of clinical trials (CT). Clinical Trial Recruitment Support Systems (CTRSS) used to estimate patient recruitment are generally specific to Hospital Information Systems and few were evaluated on a large number of trials. Our aim was to assess, on a large number of CT, the usefulness of commonly available data as Diagnosis Related Groups (DRG) databases in order to estimate potential recruitment. We used the DRG database of a large French multicenter medical institution (1.2 million inpatient stays and 400 new trials each year). Eligibility criteria of protocols were broken down into in atomic entities (diagnosis, procedures, treatments...) then translated into codes and operators recorded in a standardized form. A program parsed the forms and generated requests on the DRG database. A large majority of selection criteria could be coded and final estimations of number of eligible patients were close to observed ones (median difference = 25). Such a system could be part of the feasability evaluation and center selection process before the start of the clinical trial.
+author_notes:
+- Equal contribution
+- Equal contribution
 authors:
+- Philippe Aegerter
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2014-01-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+projects: []
+publication: '*Studies in Health Technology and Informatics, 1*(2)'
+publication_short: ""
 publication_types:
-- "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+- "2"
+publishDate: "2014-01-01T00:00:00Z"
 tags:
 - Source Themes
-title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
+title: "The use of DRG for identifying clinical trials centers with high recruitment potential: a feasability study"
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ""
+url_video: ""
 ---
+
+PUBLICATIONS SIGNIFICATIVES
+
+Taright N, Pressiat G. Approche géo-populationnelle dans la mesure de la précarité des séjours MCO. Journées EMOIS, mars 2016
 
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -44,4 +45,3 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

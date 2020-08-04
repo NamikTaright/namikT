@@ -1,38 +1,42 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The sensitivity and specificity of surveillance for Clostridium difficile infections according to International Classification of Diseases, 10th revision, codes were compared with laboratory results as standard. Sensitivity was 35.6%; specificity was 99.9%. Concordance between the 2 methods was moderate. Surveillance based on ICD-10 codes underestimated the rate based on laboratory results.
+author_notes:
+- Equal contribution
+- Equal contribution
 authors:
+- Gabrielle Jones
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2015-09-01T00:00:00Z"
+doi: "10.3201/eid1806.111188"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
-publication: ""
+projects: []
+publication: '*Emerg Inf Dis, 1*(1)'
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2017-01-01T00:00:00Z"
+- "2"
+publishDate: "2012-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: iLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example preprint / working paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
+title: Accuracy of ICD-10 codes for surveillance of Clostridium difficile infections, France
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ""
+url_video: ""
 ---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
 
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.

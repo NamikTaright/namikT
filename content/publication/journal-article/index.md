@@ -1,5 +1,5 @@
 ---
-abstract: This paper describes the participation ofECSTRA-INSERM team at CLEF eHealth 2016, task 2.C. The task involves extracting ICD10 codes from death certificates, mainly described with short plain texts. We cast the task as a machine learning problem involving the prediction of the ICD10 codes (categorical variable) from the raw text transformed into a bag-of-words matrix. We rely on probabilistic topic models that we evaluate against classical classifiers such as SVM and Naive Bayes. We demonstrate the effectiveness of topic models for this task in terms of prediction accuracy and result interpretation.
+abstract: This paper describes the participation of ECSTRA-INSERM team at CLEF eHealth 2016, task 2.C. The task involves extracting ICD10 codes from death certificates, mainly described with short plain texts. We cast the task as a machine learning problem involving the prediction of the ICD10 codes (categorical variable) from the raw text transformed into a bag-of-words matrix. We rely on probabilistic topic models that we evaluate against classical classifiers such as SVM and Naive Bayes. We demonstrate the effectiveness of topic models for this task in terms of prediction accuracy and result interpretation.
 author_notes:
 - Equal contribution
 - Equal contribution

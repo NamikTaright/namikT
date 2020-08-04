@@ -45,17 +45,5 @@ user_groups:
 - Visitors
 ---
 
-Namik Taright occupe depuis juillet 2011 la fonction de médecin responsable de l'Information médicale à l'Assistance publique - Hôpitaux de Paris. Ses travaux portent en premier lieu sur la production de l'information médicale (méthodes organisationnelles : évolution des métiers, formations, professionnalisation du codage et techniques : automatisation du codage, outil de traçabilité, transmission) dasn un contexte institutionnel unique en France. 
-
-
-PUBLICATIONS SIGNIFICATIVES
-
-Dermouche M., Looten V., Flicoteaux F., Chevret S., Velcin J., Taright N. ECSTRA-INSERM @ CLEF eHealth2016-task 2: ICD10 Code Extraction from Death Certificates. 
-
-Aegerter P., Bendersky N., Tran TC., Ropers J., Taright N., Chatellier G. The use of DRG for identifying clinical trials centers with high recruitment potential: a feasability study. Studies in Health Technology and Informatics. 2014. 205:783-787
-
-Jones G, Taright N, Boelle PY, Marty J, Lalande V, Eckert C, Barbut F. Accuracy of ICD-10 codes for surveillance of Clostridium difficile infections, France. Emerg Inf Dis. 18 : 979 – 81, 2012
-
-Taright N, Pressiat G. Approche géo-populationnelle dans la mesure de la précarité des séjours MCO. Journées EMOIS, mars 2016
-
+Namik Taright occupe depuis juillet 2011 la fonction de médecin responsable de l'Information médicale à l'Assistance publique - Hôpitaux de Paris. Ses travaux portent en premier lieu sur la production de l'information médicale (méthodes organisationnelles : évolution des métiers, formations, professionnalisation du codage et techniques : automatisation du codage, outil de traçabilité, transmission) dans un contexte institutionnel unique en France. 
 
