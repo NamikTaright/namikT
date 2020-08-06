@@ -6,11 +6,11 @@ author_notes:
 authors:
 - Mohamed Dermouche
 - admin
-date: "2015-09-01T00:00:00Z"
+date: "2016-09-05T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/tGBXiHcPKrM)'
   focal_point: ""
   preview_only: false
 projects: []
@@ -18,9 +18,9 @@ publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2016-09-05T00:00:00Z"
 slides: example
-summary: iLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A machine learning problem involving the prediction of the ICD10 codes (categorical variable) from the raw text transformed into a bag-of-words matrix.
 tags:
 - Source Themes
 title: ICD10 Code Extraction from Death Certificates

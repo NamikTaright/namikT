@@ -32,9 +32,6 @@ url_source: ""
 url_video: ""
 ---
 
-PUBLICATIONS SIGNIFICATIVES
-
-Taright N, Pressiat G. Approche géo-populationnelle dans la mesure de la précarité des séjours MCO. Journées EMOIS, mars 2016
 
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
