@@ -1,11 +1,10 @@
 ---
 authors:
+- Anne-Sophie Lot
 - admin
-- 吳恩達
 categories:
 - Demo
-- 教程
-date: "2016-04-20T00:00:00Z"
+date: "2016-10-01T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -13,17 +12,17 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2019-04-17T00:00:00Z"
+lastmod: "2016-10-01T00:00:00Z"
 projects: []
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+subtitle: ''
+summary: un papier listant les hypothèses d'évolution du modèle de la tarification à l'activité.
 tags:
 - Academic
 - 开源
-title: 'Academic: the website builder for Hugo'
+title: 'Vers un nouveau modèle de financement en MCO'
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+**Dans cet article, nous revenons sur les fondements du modèle T2A avant de passer en revue les propositions d'évolution en cours du modèle expérimentées dans divers pays.**
 
 [Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
 

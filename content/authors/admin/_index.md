@@ -45,5 +45,5 @@ user_groups:
 - Visitors
 ---
 
-Namik Taright occupe depuis juillet 2011 la fonction de médecin responsable de l'Information médicale à l'Assistance publique - Hôpitaux de Paris. Ses travaux portent en premier lieu sur la production de l'information médicale (méthodes organisationnelles : évolution des métiers, formations, professionnalisation du codage et techniques : automatisation du codage, outil de traçabilité, transmission) dans un contexte institutionnel unique en France. 
+J'occupe depuis juillet 2011 la fonction de médecin responsable de l'Information médicale à l'Assistance publique - Hôpitaux de Paris. Mes travaux portent en premier lieu sur la production de l'information médicale (méthodes organisationnelles : évolution des métiers, formations, professionnalisation du codage et techniques : automatisation du codage, outil de traçabilité, transmission) dans un contexte institutionnel unique en France.
 
