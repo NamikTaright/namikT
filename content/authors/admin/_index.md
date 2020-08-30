@@ -31,13 +31,13 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/NamikTaright
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?view_op=list_works&hl=fr&user=m4sfeaQAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/ntaright
+  link: https://github.com/NamikTaright
 superuser: true
 title: Namik Taright
 user_groups:
