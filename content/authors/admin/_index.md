@@ -31,10 +31,10 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?view_op=list_works&hl=fr&user=m4sfeaQAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/ntaright
