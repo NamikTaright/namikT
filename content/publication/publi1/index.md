@@ -1,11 +1,15 @@
 ---
 abstract: Recruitment of large samples of patients is crucial for evidence level and efficacy of clinical trials (CT). Clinical Trial Recruitment Support Systems (CTRSS) used to estimate patient recruitment are generally specific to Hospital Information Systems and few were evaluated on a large number of trials. Our aim was to assess, on a large number of CT, the usefulness of commonly available data as Diagnosis Related Groups (DRG) databases in order to estimate potential recruitment. We used the DRG database of a large French multicenter medical institution (1.2 million inpatient stays and 400 new trials each year). Eligibility criteria of protocols were broken down into in atomic entities (diagnosis, procedures, treatments...) then translated into codes and operators recorded in a standardized form. A program parsed the forms and generated requests on the DRG database. A large majority of selection criteria could be coded and final estimations of number of eligible patients were close to observed ones (median difference = 25). Such a system could be part of the feasability evaluation and center selection process before the start of the clinical trial.
-author_notes:
-- Equal contribution
-- Equal contribution
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 authors:
 - Philippe Aegerter
+- Noëlle Bendersky 
+- Thi-Chien Tran 
+- Jacques Ropers 
 - admin
+- and Gilles Chatellier
 date: "2014-01-01T00:00:00Z"
 doi: ""
 featured: false
