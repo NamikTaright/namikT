@@ -1,8 +1,8 @@
 ---
 abstract: This work describes use of .
-author_notes:
-- Equal contribution
-- Equal contribution
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 authors:
 - Guillaume Pressiat
 - admin

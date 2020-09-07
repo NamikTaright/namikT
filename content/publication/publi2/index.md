@@ -1,11 +1,16 @@
 ---
 abstract: The sensitivity and specificity of surveillance for Clostridium difficile infections according to International Classification of Diseases, 10th revision, codes were compared with laboratory results as standard. Sensitivity was 35.6%; specificity was 99.9%. Concordance between the 2 methods was moderate. Surveillance based on ICD-10 codes underestimated the rate based on laboratory results.
-author_notes:
-- Equal contribution
-- Equal contribution
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 authors:
 - Gabrielle Jones
 - admin
+- Pierre-Yves Boelle, 
+- Jeanne Marty, 
+- Valérie Lalande,
+- Catherine Eckert and 
+- Frédéric Barbut
 date: "2012-01-01T00:00:00Z"
 doi: "10.3201/eid1806.111188"
 featured: false
